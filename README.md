@@ -1,19 +1,19 @@
 <h1>Welcome to my page.</h1>
 <table>
 <tr>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
 </tr>
 <tr>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
 </tr>
 <tr>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
-<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="150" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
+<th><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091542147704041503/jotchua_puppy_transparent.png" width="auto" height="100" /></th>
 </tr>
 </table>
 
