@@ -22,6 +22,6 @@
 <div align="center"><h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0NXujpNZDudFL7q5GtSUt_LzWtFOpuq0NcD_FNek&s" width="auto" height="25"></img>I'm currently studying at Holberton.<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0NXujpNZDudFL7q5GtSUt_LzWtFOpuq0NcD_FNek&s" width="auto" height="25"></img></h2></div>
 
  <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patricio-Benglian&show_icons=true&hide=issues,contribs&bg_color=45,A6F6F7,F3BCF9&text_color=A567BF&theme=radical&border_radius=10&icon_color=A567BF&include_all_commits=true)" width="500" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lwc8nl59b1mtdzymwwsswug66&unique=yes&count=5" width="500" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Patricio-Benglian&show_icons=true&hide=issues,contribs&bg_color=45,A6F6F7,F3BCF9&text_color=A567BF&theme=radical&border_radius=10&icon_color=A567BF&include_all_commits=true)" width="400" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lwc8nl59b1mtdzymwwsswug66&unique=yes&count=5" width="400" /> 
 </p>
