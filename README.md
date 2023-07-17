@@ -23,7 +23,9 @@
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091552733103927337/computer-science-c-code.gif" height="250" width="auto"></img>
 
  <p float="left">
+  <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=Patricio-Benglian&show_icons=true&hide=issues,contribs&bg_color=45,A6F6F7,F3BCF9&text_color=A567BF&theme=radical&border_radius=10&icon_color=A567BF&include_all_commits=true)" width="400" />
+  -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=lwc8nl59b1mtdzymwwsswug66&count=3" width="400" /> 
 </p>
 </div>
