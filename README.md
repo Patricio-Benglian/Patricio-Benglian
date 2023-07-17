@@ -20,7 +20,7 @@
  
 </div>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/1073722166765432955/1091552733103927337/computer-science-c-code.gif" height="250" width="auto"></img>
+<div align="center"><img src="https://github.com/Patricio-Benglian/Patricio-Benglian/assets/124268011/538a9504-25ea-4944-9c2b-2b4aff45568f" height="250" width="auto"></img>
 
  <p float="left">
   <!-- 
