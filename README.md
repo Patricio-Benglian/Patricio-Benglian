@@ -2,7 +2,7 @@
 &nbsp&nbsp&nbsp/)/)
 <br>&nbsp( . .)
 <br>&nbsp&nbsp&nbspc( づ<img src="https://user-images.githubusercontent.com/124268011/229352694-7e9b9c24-124f-47be-84c4-0ee765e522fa.png" width="auto" height="25">
-</h2>h2</div>
+</h2></div>
 
 <!-- <div align="center"><h1>  &nbsp&nbsp/)/)
 <br>( . .)
